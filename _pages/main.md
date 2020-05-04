@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Jose P. Vasquez"
-excerpt: "Jose P. Vasquez"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /jpvasquez/
