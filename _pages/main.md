@@ -8,6 +8,7 @@ redirect_from:
   - /jpvasquez.html
 ---
 
+# Jose P. Vasquez
 
 <img class="img-responsive" style="float: left; margin: 7px 20px 0px 0px;" src="/images/profile.jpg" width="220"> I am a Ph.D. Candidate in Economics at UC Berkeley, expecting to graduate in May 2020. My main fields of research are Labor Economics and International Trade. I am also interested in Development Economics and Economic Geography.
 
