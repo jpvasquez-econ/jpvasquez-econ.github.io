@@ -8,7 +8,9 @@ redirect_from:
   - /jpvasquez.html
 ---
 
-# Jose P. Vasquez
+
+
+
 
 <img class="img-responsive" style="float: left; margin: 7px 20px 0px 0px;" src="/images/profile.jpg" width="220"> I am a Ph.D. Candidate in Economics at UC Berkeley, expecting to graduate in May 2020. My main fields of research are Labor Economics and International Trade. I am also interested in Development Economics and Economic Geography.
 
@@ -31,7 +33,7 @@ During the 2020-2021 academic year, I will be a Postdoctoral Fellow at the Grisw
 
 **New-Keynesian Trade: Understanding the Employment and Welfare Effects of Sector-Level Shocks** with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/). (*New draft coming soon*)
 
-<dl><dd> There is a growing empirical consensus suggesting that sector-specific productivity increases in a foreign country or trade liberalizations can have important unemployment and nonemployment effects across the different regions of an economy.  Such employment changes cannot be explained by the workhorse quantitative trade model since it assumes full employment and a perfectly inelastic labor supply curve. In this paper we show how adding downward nominal wage rigidity and home employment allows the quantitative trade model to generate changes in unemployment and nonemployment that match those uncovered by the empirical literature studying the ``China Shock.'' We also compare the associated welfare effects predicted by this model with those in the model without unemployment. We find that the China Shock leads to welfare increases in most states of the U.S., including many that experience unemployment during the transition. On average across U.S. states, nominal rigidities reduce the gains from the China Shock from 31 to 17 basis points. </dd></dl>
+<dl><dd> There is a growing empirical consensus suggesting that sector-specific productivity increases in a foreign country or trade liberalizations can have important unemployment and nonemployment effects across the different regions of an economy.  Such employment changes cannot be explained by the workhorse quantitative trade model since it assumes full employment and a perfectly inelastic labor supply curve. In this paper we show how adding downward nominal wage rigidity and home employment allows the quantitative trade model to generate changes in unemployment and nonemployment that match those uncovered by the empirical literature studying the "China Shock." We also compare the associated welfare effects predicted by this model with those in the model without unemployment. We find that the China Shock leads to welfare increases in most states of the U.S., including many that experience unemployment during the transition. On average across U.S. states, nominal rigidities reduce the gains from the China Shock from 31 to 17 basis points. </dd></dl>
 
 
 # Selected work in progress
