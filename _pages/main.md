@@ -18,10 +18,13 @@ During the 2020-2021 academic year, I will be a Postdoctoral Fellow at the Grisw
 
 **Email:** jpvasquez at berkeley dot edu,   [**Curriculum Vitae**](/files/CV_Jose_Vasquez.pdf)    
 
-
-
+***
 
 # Working papers
+
+---
+
+
 
 [**The Effects of Multinationals on Workers: Evidence from Costa Rica**](/files/Effects_MNC_Workers.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/). 
 
@@ -35,15 +38,19 @@ During the 2020-2021 academic year, I will be a Postdoctoral Fellow at the Grisw
 
 <dl><dd> There is a growing empirical consensus suggesting that sector-specific productivity increases in a foreign country or trade liberalizations can have important unemployment and nonemployment effects across the different regions of an economy.  Such employment changes cannot be explained by the workhorse quantitative trade model since it assumes full employment and a perfectly inelastic labor supply curve. In this paper we show how adding downward nominal wage rigidity and home employment allows the quantitative trade model to generate changes in unemployment and nonemployment that match those uncovered by the empirical literature studying the "China Shock." We also compare the associated welfare effects predicted by this model with those in the model without unemployment. We find that the China Shock leads to welfare increases in most states of the U.S., including many that experience unemployment during the transition. On average across U.S. states, nominal rigidities reduce the gains from the China Shock from 31 to 17 basis points. </dd></dl>
 
+---
 
 # Selected work in progress
 
+---
 
 **(Mis)matching to Good Suppliers: Evidence from Transactions Microdata** with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and Paolo Zacchia. 
 
-
+---
 
 ## Technical reports
+
+---
 
 [**Costa Rican Production Network: Stylized Facts**](/files/Costa_Rican_Production_Network_Stylized_Facts.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), Mariany Fuentes, and [Isabela Manelici](https://www.isabelamanelici.com/). Research Paper of the Central Bank of Costa Rica, Nr. 002/2018.
 
