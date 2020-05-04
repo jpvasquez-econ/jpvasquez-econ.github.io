@@ -50,8 +50,6 @@ During the 2020-2021 academic year, I will be a Postdoctoral Fellow at the Grisw
 
 ## Technical reports
 
----
-
 [**Costa Rican Production Network: Stylized Facts**](/files/Costa_Rican_Production_Network_Stylized_Facts.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), Mariany Fuentes, and [Isabela Manelici](https://www.isabelamanelici.com/). Research Paper of the Central Bank of Costa Rica, Nr. 002/2018.
 
 **The Evolution of Labor Earnings and Inequality in Costa Rica: Micro-Level Evidence** with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Isabela Manelici](https://www.isabelamanelici.com/), and Alfredo Mendoza. Research Paper of the Central Bank of Costa Rica, 2019. (*Draft avaliable soon*).
