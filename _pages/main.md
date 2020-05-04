@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jose P. Vasquez"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
