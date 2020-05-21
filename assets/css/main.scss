@@ -57,7 +57,9 @@ strong {
 a {
     color: #07153d;
 }
-
+/*
+ * font color for body text
+*/
 body {
     margin: 0;
     padding: 0;
@@ -65,7 +67,9 @@ body {
     font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
     line-height: 1.5;
 }
-
+/*
+ * color of my name
+*/
 .greedy-nav a {
     display: block;
     margin: 0 1rem;
@@ -73,8 +77,16 @@ body {
     color: #07153d;
     text-decoration: none;
 }
-
+/*
+ * size of my name
+*/
 ul li, ol li {
     margin-bottom: 0.5em;
     font-size: 1.75em;
+}
+/*
+ * space after title
+*/
+.page__content h1 {
+    margin-bottom: 1.0em;
 }
