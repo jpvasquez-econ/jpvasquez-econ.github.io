@@ -75,7 +75,8 @@ body {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: #07153d;
+    color: #15317E;
+ /*color: #07153d;*/
     text-decoration: none;
 }
 .greedy-nav .visible-links a:before {
@@ -84,7 +85,7 @@ body {
     left: 0;
     bottom: 0;
     height: 4px;
-    background: #07153d;
+    background: #15317E;
     width: 100%;
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
@@ -104,11 +105,11 @@ ul li, ol li {
 */
 .page__content h1 {
     margin-bottom: 1.0em;
-    color: #07153d;
+    color: #15317E;
 }
 .page__content h2 {
     padding-bottom: 1em;
     border-bottom: 1px solid #f3f1f4;
     margin-top: 1em;
-    color: #07153d;
+    color: #15317E;
 }
