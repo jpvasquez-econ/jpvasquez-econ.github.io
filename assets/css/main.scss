@@ -78,6 +78,20 @@ body {
     color: #07153d;
     text-decoration: none;
 }
+.greedy-nav .visible-links a:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 4px;
+    background: #07153d;
+    width: 100%;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    -webkit-transform: scaleX(0);
+    -ms-transform: scaleX(0);
+    transform: scaleX(0);
+}
 /*
  * size of my name
 */
