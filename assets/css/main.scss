@@ -65,3 +65,16 @@ body {
     font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
     line-height: 1.5;
 }
+
+.greedy-nav a {
+    display: block;
+    margin: 0 1rem;
+    padding: 0.5rem 0;
+    color: #07153d;
+    text-decoration: none;
+}
+
+ul li, ol li {
+    margin-bottom: 0.5em;
+    font-size: 1.75em;
+}
