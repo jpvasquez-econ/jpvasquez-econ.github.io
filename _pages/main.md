@@ -12,11 +12,11 @@ redirect_from:
 
 
 
-<img class="img-responsive" style="float: left; margin: 7px 20px 0px 0px;" src="/images/profile.jpg" width="220"> I am a Ph.D. Candidate in Economics at UC Berkeley, expecting to graduate in May 2020. My main fields of research are Labor Economics and International Trade. I am also interested in Development Economics and Economic Geography.
+<img class="img-responsive" style="float: left; margin: 7px 20px 0px 0px;" src="/images/profile.jpg" width="220"> I am a Postdoctoral Research Associate at the Department of Economics of Princeton University. Starting in 2021, I will become an Assistant Professor at the Department of Management of the London School of Economics.
 
-During the 2020-2021 academic year, I will be a Postdoctoral Fellow at the Griswold Center for Economic Policy Studies and the Department of Economics at Princeton University. Starting in 2021, I will become an Assistant Professor at the Department of Management of the London School of Economics.
+My main fields of research are International Trade and Labor Economics. I am also interested in Development Economics and Economic Geography.
 
-**Email:** jpvasquez at berkeley dot edu,   [**Curriculum Vitae**](/files/CV_Jose_Vasquez.pdf)    
+**Email:** jpvc at princeton dot edu,   [**Curriculum Vitae**](/files/CV_Jose_Vasquez.pdf)    
 
 ***
 
