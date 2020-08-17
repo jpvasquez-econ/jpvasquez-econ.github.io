@@ -44,7 +44,9 @@ My main fields of research are International Trade and Labor Economics. I am als
 
 ---
 
-**(Mis)matching to Good Suppliers: Evidence from Transactions Microdata** with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and Paolo Zacchia. 
+**(Mis)matching to Good Suppliers: Evidence from Transactions Microdata** with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Paolo Zacchia](https://www.paolozacchia.com/). 
+
+**Responsible Sourcing? Theory and Evidence from Costa Rica** with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Ben Faber](https://eml.berkeley.edu/~faberb/), [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/), and [Isabela Manelici](https://www.isabelamanelici.com/).
 
 ---
 
