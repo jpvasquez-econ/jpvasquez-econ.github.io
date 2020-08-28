@@ -48,6 +48,8 @@ My main fields of research are International Trade and Labor Economics. I am als
 
 **Responsible Sourcing? Theory and Evidence from Costa Rica** with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Ben Faber](https://eml.berkeley.edu/~faberb/), [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/), and [Isabela Manelici](https://www.isabelamanelici.com/).
 
+**The Impact of Multinationals on Informality: Evidence from Mexico** with [Isabela Manelici](https://www.isabelamanelici.com/) and [Roman D. Zarate](https://www.romandavidzarate.com/)
+
 ---
 
 ## Technical reports
