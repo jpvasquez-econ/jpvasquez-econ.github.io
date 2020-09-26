@@ -24,7 +24,7 @@ My main fields of research are International Trade and Labor Economics. I am als
 
 ---
 
-**[New-Keynesian Trade: Understanding the Employment and Welfare Effects of Sector-Level Shocks](/files/NK_trade.pdf)** with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/). 
+**[New-Keynesian Trade: Understanding the Employment and Welfare Effects of Trade Shocks](/files/NK_trade.pdf)** with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/). 
 
 <dl><dd> There is a growing empirical consensus that trade shocks can have important effects on unemployment and nonemployment across local-labor markets within an economy. This paper introduces downward nominal wage rigidity to an otherwise standard quantitative trade model and shows how this framework can generate changes in unemployment and nonemployment that match those uncovered by the empirical literature studying the "China shock." We also compare the associated welfare effects predicted by this model with those in the model without unemployment. We find that the China shock leads to average welfare increases in most U.S. states, including many that experience unemployment during the transition. However, nominal rigidities reduce the overall U.S. gains from the China shock between one and two thirds. In addition, there are ten states that experience welfare losses in the presence of downward nominal wage rigidity but would have experienced welfare gains without it. </dd></dl>
 
