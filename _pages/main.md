@@ -18,6 +18,8 @@ My main fields of research are International Trade and Labor Economics. I am als
 
 **Email:** jpvc at princeton dot edu,   [**Curriculum Vitae**](/files/CV_Jose_Vasquez.pdf)    
 
+
+
 ***
 
 # Working papers
