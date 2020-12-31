@@ -12,11 +12,13 @@ redirect_from:
 
 
 
-<img class="img-responsive" style="float: left; margin: 7px 20px 0px 0px;" src="/images/profile.jpg" width="220"> I am a Postdoctoral Research Associate at the Department of Economics of Princeton University. Starting in 2021, I will become an Assistant Professor at the Department of Management of the London School of Economics.
+<img class="img-responsive" style="float: left; margin: 7px 20px 0px 0px;" src="/images/profile.jpg" width="200"> I am a Postdoctoral Research Associate at the Department of Economics of Princeton University. Starting in 2021, I will become an Assistant Professor at the Department of Management of the London School of Economics.
 
 My main fields of research are International Trade and Labor Economics. I am also interested in Development Economics and Economic Geography.
 
 **Email:** jpvc at princeton dot edu,   [**Curriculum Vitae**](/files/CV_Jose_Vasquez.pdf)    
+
+
 
 
 
@@ -27,6 +29,8 @@ My main fields of research are International Trade and Labor Economics. I am als
 ---
 
 [**The Effects of Joining Multinational Supply Chains: New Evidence from Firm-to-Firm Linkages**](/files/Effects_of_Joining_MNC_Supply_Chains.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/). Resubmitted to the *Quarterly Journal of Economics*. December 2020.
+
+[VoxDev summary](https://voxdev.org/topic/firms-trade/boosting-firm-productivity-through-joining-multinational-supply-chains), [IGC summary](https://www.theigc.org/blog/new-research-findings-on-firms-in-five-graphs/)
 
 <dl><dd> We study the effects of becoming a supplier to multinational corporations (MNCs) using tax data tracking firm-to-firm transactions in Costa Rica. Event-study estimates reveal that domestic firms experience strong and persistent gains in performance after supplying to a first MNC buyer. Four years after, domestic firms employ 26% more workers and have a 4 to 9% higher total factor productivity (TFP). These effects are unlikely to be explained by demand effects or changes in tax compliance. Moreover, suppliers experience a large drop in their sales to all other buyers except the first MNC buyer in the year of the event, followed by a gradual recovery. The dynamics of adjustment in sales to others suggests that firms face short-run capacity constraints that relax over time. Four years later, the sales to others grow by 20%. Most of this growth comes from the acquisition of new buyers, which tend to be "better buyers" (e.g., larger and with more stable supplier relationships). Finally, surveys of domestic firms and MNCs provide further insights into the wide-ranging benefits of supplying to MNCs. According to our surveys, these benefits range from better managerial practices to a better reputation. </dd></dl>
 
