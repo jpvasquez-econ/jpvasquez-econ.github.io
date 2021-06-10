@@ -12,17 +12,11 @@ redirect_from:
 
 
 
-<img class="img-responsive" style="float: left; margin: 7px 20px 0px 0px;" src="/images/profile.jpg" width="200"> I am a Postdoctoral Fellow at the Department of Economics of Princeton University. Starting in 2021, I will become an Assistant Professor at the Department of Management of the London School of Economics.
+<img class="img-responsive" style="float: left; margin: 7px 20px 0px 0px;" src="/images/profile.jpg" width="200"> I am a Postdoctoral Fellow at the Department of Economics of Princeton University. Starting in the fall of 2021, I will become an Assistant Professor at the Department of Management of the London School of Economics. I am also affiliated with the Centre for Economic Performance
 
 My main fields of research are International Trade and Labor Economics. I am also interested in Development Economics and Economic Geography.
 
 **Email:** jpvc at princeton dot edu,   [**Curriculum Vitae**](/files/CV_Jose_Vasquez.pdf)    
-
-
-
-
-
-
 
 ***
 
