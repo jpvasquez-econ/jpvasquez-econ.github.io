@@ -24,7 +24,7 @@ My main fields of research are International Trade and Labor Economics. I am als
 
 - [**<u>The Effects of Joining Multinational Supply Chains: New Evidence from Firm-to-Firm Linkages</u>**](/files/Effects_of_Joining_MNC_Supply_Chains.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/). Resubmitted to the *Quarterly Journal of Economics*. December 2020.
 
-- **[<u>New-Keynesian Trade: Understanding the Employment and Welfare Effects of Trade Shocks</u>](/files/NK_trade.pdf)**with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/). September 2020.
+- **[<u>New-Keynesian Trade: Understanding the Employment and Welfare Effects of Trade Shocks</u>](/files/NK_trade.pdf)** with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/). September 2020.
 
 ---
 
