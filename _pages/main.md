@@ -8,7 +8,7 @@ redirect_from:
   - /jpvasquez.html
 ---
 
-<img class="img-responsive" style="float: left; margin: 7px 20px 0px 0px;" src="/images/profile.jpg" width="200"> I am a Postdoctoral Fellow at the Department of Economics of [Princeton University](https://economics.princeton.edu). Starting in the Fall of 2021, I will become an Assistant Professor at the [Department of Management](https://www.lse.ac.uk/management) of the [London School of Economics](https://www.lse.ac.uk). I am also affiliated with the [Centre for Economic Performance](https://cep.lse.ac.uk).
+<img class="img-responsive" style="float: left; margin: 7px 20px 0px 0px;" src="/images/profile.jpg" width="200"> I am a Postdoctoral Fellow at the Department of Economics of [**Princeton University**](https://economics.princeton.edu). Starting in the Fall of 2021, I will become an Assistant Professor at the [**Department of Management**](https://www.lse.ac.uk/management) of the [**London School of Economics**](https://www.lse.ac.uk). I am also affiliated with the [**Centre for Economic Performance**](https://cep.lse.ac.uk).
 
 My main fields of research are International Trade and Labor Economics. I am also interested in Development Economics and Economic Geography.
 
@@ -32,9 +32,9 @@ My main fields of research are International Trade and Labor Economics. I am als
 
 ---
 
-**(Mis)matching to Good Suppliers: Evidence from Transactions Microdata** with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Paolo Zacchia](https://www.paolozacchia.com/). 
+(Mis)matching to Good Suppliers: Evidence from Transactions Microdata with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Paolo Zacchia](https://www.paolozacchia.com/). 
 
-**Responsible Sourcing? Theory and Evidence from Costa Rica** with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Ben Faber](https://eml.berkeley.edu/~faberb/), [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/), and [Isabela Manelici](https://www.isabelamanelici.com/).
+Responsible Sourcing? Theory and Evidence from Costa Rica with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Ben Faber](https://eml.berkeley.edu/~faberb/), [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/), and [Isabela Manelici](https://www.isabelamanelici.com/).
 
-**The Impact of Multinationals on Informality: Evidence from Mexico** with [Isabela Manelici](https://www.isabelamanelici.com/) and [Roman D. Zarate](https://www.romandavidzarate.com/)
+The Impact of Multinationals on Informality: Evidence from Mexico with [Isabela Manelici](https://www.isabelamanelici.com/) and [Roman D. Zarate](https://www.romandavidzarate.com/)
 
