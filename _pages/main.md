@@ -20,11 +20,11 @@ My main fields of research are International Trade and Labor Economics. I am als
 
 ---
 
-[**The Effects of Multinationals on Workers: Evidence from Costa Rican Microdata**](/files/Effects_MNC_Workers.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/). April 2021.
+* <u>[**The Effects of Multinationals on Workers: Evidence from Costa Rican Microdata**](/files/Effects_MNC_Workers.pdf)</u> with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/). April 2021.
 
-[**The Effects of Joining Multinational Supply Chains: New Evidence from Firm-to-Firm Linkages**](/files/Effects_of_Joining_MNC_Supply_Chains.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/). Resubmitted to the *Quarterly Journal of Economics*. December 2020.
+- <u>[**The Effects of Joining Multinational Supply Chains: New Evidence from Firm-to-Firm Linkages**](/files/Effects_of_Joining_MNC_Supply_Chains.pdf)</u> with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/). Resubmitted to the *Quarterly Journal of Economics*. December 2020.
 
-**[New-Keynesian Trade: Understanding the Employment and Welfare Effects of Trade Shocks](/files/NK_trade.pdf)** with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/). September 2020.
+- <u>**[New-Keynesian Trade: Understanding the Employment and Welfare Effects of Trade Shocks](/files/NK_trade.pdf)**</u> with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/). September 2020.
 
 ---
 
@@ -32,9 +32,9 @@ My main fields of research are International Trade and Labor Economics. I am als
 
 ---
 
-(Mis)matching to Good Suppliers: Evidence from Transactions Microdata with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Paolo Zacchia](https://www.paolozacchia.com/). 
+- <u>(Mis)matching to Good Suppliers: Evidence from Transactions Microdata</u> with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Paolo Zacchia](https://www.paolozacchia.com/). 
 
-Responsible Sourcing? Theory and Evidence from Costa Rica with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Ben Faber](https://eml.berkeley.edu/~faberb/), [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/), and [Isabela Manelici](https://www.isabelamanelici.com/).
+- <u>Responsible Sourcing? Theory and Evidence from Costa Rica</u> with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Ben Faber](https://eml.berkeley.edu/~faberb/), [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/), and [Isabela Manelici](https://www.isabelamanelici.com/).
 
-The Impact of Multinationals on Informality: Evidence from Mexico with [Isabela Manelici](https://www.isabelamanelici.com/) and [Roman D. Zarate](https://www.romandavidzarate.com/)
+- <u>The Impact of Multinationals on Informality: Evidence from Mexico</u> with [Isabela Manelici](https://www.isabelamanelici.com/) and [Roman D. Zarate](https://www.romandavidzarate.com/)
 
