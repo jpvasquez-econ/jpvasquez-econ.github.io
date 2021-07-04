@@ -12,7 +12,9 @@ redirect_from:
 
 My main fields of research are International Trade and Labor Economics. I am also interested in Development Economics and Economic Geography.
 
-**Email:** jpvc at princeton dot edu,   [**Curriculum Vitae**](/files/CV_Jose_Vasquez.pdf)    
+**Email:** <jpvc@princeton.edu>.
+
+[**Curriculum Vitae**](/files/CV_Jose_Vasquez.pdf)    
 
 ***
 
