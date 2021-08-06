@@ -12,7 +12,7 @@ redirect_from:
 
 My main fields of research are International Trade and Labor Economics. I am also interested in Development Economics and Economic Geography.
 
-**Email:** <jpvasquez1000@gmail.com>. [**Curriculum Vitae**](/files/CV_Jose_Vasquez.pdf)    
+**Email:** <j.p.vasquez@lse.ac.uk>. [**Curriculum Vitae**](/files/CV_Jose_Vasquez.pdf)    
 
 ***
 
