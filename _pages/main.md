@@ -14,6 +14,8 @@ My main fields of research are International Trade and Labor Economics. I am als
 
 **Email:** <j.p.vasquez@lse.ac.uk>. [**Curriculum Vitae**](/files/CV_Jose_Vasquez.pdf)    
 
+[Office Hours Signup](https://outlook.office365.com/owa/calendar/LSE1@LSECloud.onmicrosoft.com/bookings/)
+
 ***
 
 # Working papers
