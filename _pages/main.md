@@ -35,5 +35,5 @@ My main fields of research are International Trade and Labor Economics. I am als
 
 # Publications
 
-- [**<u>The Effects of Joining Multinational Supply Chains: New Evidence from Firm-to-Firm Linkages</u>**](/files/Effects_of_Joining_MNC_Supply_Chains.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/). Accepted at the *Quarterly Journal of Economics* (2021).
+- [**<u>The Effects of Joining Multinational Supply Chains: New Evidence from Firm-to-Firm Linkages</u>**](/files/Effects_of_Joining_MNC_Supply_Chains.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/). Forthcoming at the *Quarterly Journal of Economics* (2022).
 
