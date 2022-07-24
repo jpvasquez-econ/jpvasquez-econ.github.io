@@ -34,5 +34,5 @@ My main fields of research are International Trade and Labo(u)r Economics. I am 
 
 - <u>(Mis)matching to Good Suppliers: Evidence from Transactions Microdata</u> with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Paolo Zacchia](https://www.paolozacchia.com/). 
 
-- <u>The Impact of Multinationals on Informality: Evidence from Mexico</u> with [Isabela Manelici](https://www.isabelamanelici.com/) and [Roman D. Zarate](https://www.romandavidzarate.com/)
+- <u>The Gains from Foreign Investment in an Economy with Distortions</u> with [Isabela Manelici](https://www.isabelamanelici.com/) and [Roman D. Zarate](https://www.romandavidzarate.com/)
 
