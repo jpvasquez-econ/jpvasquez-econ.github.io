@@ -25,7 +25,7 @@ My main fields of research are International Trade and Labo(u)r Economics. I am 
 # Working papers
 
 * [**<u>Responsible Sourcing? Theory and Evidence from Costa Rica</u>**](/files/Responsible_Sourcing_CR.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Ben Faber](https://eml.berkeley.edu/~faberb/), [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/), and [Isabela Manelici](https://www.isabelamanelici.com/). July 2022.
-* [**<u>Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China Shock</u>**](/files/NK_trade.pdf) with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/). March 2022.
+* [**<u>Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China Shock</u>**](/files/NK_trade.pdf) with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/). March 2022. Revision requested at the *Journal of Political Economy*. 
 * [**<u>The Effects of Multinationals on Workers: Evidence from Costa Rican Microdata</u>**](/files/Effects_MNC_Workers.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/). April 2021.
 
 # Selected work in progress
