@@ -35,7 +35,7 @@ My main fields of research are International Trade and Labo(u)r Economics. I am 
 
 
 * [<u>Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China Shock</u>](/files/NK_trade.pdf) with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/). March 2022. Revision requested at the ***Journal of Political Economy***. 
-  * Link to [VoxEU Column](https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock)
+  * Link to [VoxEU column](https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock)
 
 * [<u>The Effects of Multinationals on Workers: Evidence from Costa Rican Microdata</u>](/files/Effects_MNC_Workers.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/). April 2021.
 
