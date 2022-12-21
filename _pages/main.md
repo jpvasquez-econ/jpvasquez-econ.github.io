@@ -31,7 +31,7 @@ My main fields of research are International Trade and Labo(u)r Economics. I am 
 ---
 
 - [<u>Responsible Sourcing? Theory and Evidence from Costa Rica</u>](/files/Responsible_Sourcing_CR.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Ben Faber](https://eml.berkeley.edu/~faberb/), [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/), and [Isabela Manelici](https://www.isabelamanelici.com/). November 2022.
-  - Link to [VoxDev summary](https://voxdev.org/topic/firms-trade/responsible-sourcing-theory-and-evidence-costa-rica)
+  - Links to [VoxDev summary](https://voxdev.org/topic/firms-trade/responsible-sourcing-theory-and-evidence-costa-rica), [VoxEU column](https://cepr.org/voxeu/columns/responsible-sourcing-theory-and-evidence-costa-rica)
 
 
 * [<u>Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China Shock</u>](/files/NK_trade.pdf) with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/). March 2022. Revision requested at the ***Journal of Political Economy***. 
