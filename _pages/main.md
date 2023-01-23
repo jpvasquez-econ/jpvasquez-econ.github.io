@@ -49,5 +49,5 @@ My main fields of research are International Trade and Labo(u)r Economics. I am 
 
 # Other writing
 
-- [Supply Chain Disruptions, Trade Costs, and Labor Markets](https://www.frbsf.org/wp-content/uploads/sites/4/el2023-02.pdf) (2023) with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/). Economic Letter. Federal Reserve Bank of San Francisco.
+- [<u>Supply Chain Disruptions, Trade Costs, and Labor Markets</u>](https://www.frbsf.org/wp-content/uploads/sites/4/el2023-02.pdf) (2023) with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/). Economic Letter. Federal Reserve Bank of San Francisco.
 - [<u>Pandemics as a potential threat to the wide-ranging gains from FDI</u>](https://www.suerf.org/docc/att/8505/oenb-wko-book.pdf) (2021) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/). In *The Corona Effect: Structural Shifts and International Trade* -- Schwerpunkt Außenwirtschaft from the Austrian National Bank.  
