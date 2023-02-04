@@ -8,7 +8,7 @@ redirect_from:
   - /jpvasquez.html
 ---
 
-<img class="img-responsive" style="float: left; margin: 7px 20px 0px 0px;" src="/images/jp_new.jpg" width="200"> I am an Assistant Professor at the [Department of Management](https://www.lse.ac.uk/management) of the [London School of Economics](https://www.lse.ac.uk). I am also affiliated with the [CEPR](https://cepr.org), the [CESifo](https://www.cesifo.org/en), and the [CEP](https://cep.lse.ac.uk).
+<img class="img-responsive" style="float: left; margin: 7px 20px 0px 0px;" src="/images/JP_new.jpg" width="200"> I am an Assistant Professor at the [Department of Management](https://www.lse.ac.uk/management) of the [London School of Economics](https://www.lse.ac.uk). I am also affiliated with the [CEPR](https://cepr.org), the [CESifo](https://www.cesifo.org/en), and the [CEP](https://cep.lse.ac.uk).
 
 My main fields of research are International Trade and Labo(u)r Economics. I am also interested in Development Economics and Economic Geography.  
 
