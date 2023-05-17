@@ -33,7 +33,7 @@ My main fields of research are International Trade and Labo(u)r Economics. I am 
 - [<u>Labor Market Effects of Global Supply Chain Disruptions</u>](/files/SupplyChainDisruptions.pdf) with [Mauricio Ulate](https://www.mauricioulate.com/), and [Roman D. Zarate](https://www.romandavidzarate.com/). February 2023.
   - Link to related [SF Fed Economic Letter](https://www.frbsf.org/wp-content/uploads/sites/4/el2023-02.pdf)
 
-- [<u>Responsible Sourcing? Theory and Evidence from Costa Rica</u>](/files/Responsible_Sourcing_CR.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Ben Faber](https://eml.berkeley.edu/~faberb/), [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/), and [Isabela Manelici](https://www.isabelamanelici.com/). November 2022.
+- [<u>Responsible Sourcing? Theory and Evidence from Costa Rica</u>](/files/Responsible_Sourcing_CR.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Ben Faber](https://eml.berkeley.edu/~faberb/), [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/), and [Isabela Manelici](https://www.isabelamanelici.com/). November 2022. Revision requested at the ***American Economic Review***. 
   - Links to [VoxDev summary](https://voxdev.org/topic/firms-trade/responsible-sourcing-theory-and-evidence-costa-rica), [VoxEU column](https://cepr.org/voxeu/columns/responsible-sourcing-theory-and-evidence-costa-rica)
 
 
