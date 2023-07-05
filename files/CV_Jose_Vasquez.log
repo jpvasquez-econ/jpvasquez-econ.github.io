@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  2 JUN 2023 11:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  5 JUL 2023 15:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -407,15 +407,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 272.
  (./CV_Jose_Vasquez.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 272.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 272.
-
-
-Package rerunfilecheck Warning: File `CV_Jose_Vasquez.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `CV_Jose_Vasquez.out':
-(rerunfilecheck)             Before: 6F6A5461AE7AECB268267A7B56F14EC4;815
-(rerunfilecheck)             After:  2E52A8EB2FAE758A3AF500730FBBDFA7;819.
+Package rerunfilecheck Info: File `CV_Jose_Vasquez.out' has not changed.
+(rerunfilecheck)             Checksum: 2E52A8EB2FAE758A3AF500730FBBDFA7;819.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 272.
  ) 
 Here is how much of TeX's memory you used:
@@ -432,7 +425,7 @@ Here is how much of TeX's memory you used:
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on CV_Jose_Vasquez.pdf (3 pages, 93891 bytes).
+Output written on CV_Jose_Vasquez.pdf (3 pages, 93889 bytes).
 PDF statistics:
  118 PDF objects out of 1000 (max. 8388607)
  105 compressed objects within 2 object streams
