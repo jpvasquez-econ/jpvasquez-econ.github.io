@@ -8,17 +8,15 @@ redirect_from:
   - /jpvasquez.html
 ---
 
-<img class="img-responsive" style="float: left; margin: 7px 20px 0px 0px;" src="/images/JP_new.jpg" width="200"> I am an Assistant Professor at the [Department of Management](https://www.lse.ac.uk/management) of the [London School of Economics](https://www.lse.ac.uk) (on leave). I am also a Research Affiliate at [CEPR](https://cepr.org), [CESifo](https://www.cesifo.org/en), and Associate at [CEP](https://cep.lse.ac.uk).
+<img class="img-responsive" style="float: left; margin: 7px 20px 0px 0px;" src="/images/JP_new.jpg" width="220"> I am an Assistant Professor at the [Department of Management](https://www.lse.ac.uk/management) of the [London School of Economics](https://www.lse.ac.uk) (on leave). I am also a Research Affiliate at [CEPR](https://cepr.org), [CESifo](https://www.cesifo.org/en), and Associate at [CEP](https://cep.lse.ac.uk).
 
-During the Spring and Fall of 2024, I will be a visiting Assistant Professor at the [Department of Economics](https://economics.mit.edu) of [MIT](https://www.mit.edu).
+During the Spring and Fall of 2024, I will be a visiting Assistant Professor at the [Department of Economics](https://economics.mit.edu) at [MIT](https://www.mit.edu).
 
 My main fields of research are International Trade, Labo(u)r Economics, and Development Economics.
 
 [**Curriculum Vitae**](/files/CV_Jose_Vasquez.pdf).
 
-**Emails:** <j.p.vasquez@lse.ac.uk>. 
-
-​	       <jpvasq@mit.edu>. 
+**Emails:** <j.p.vasquez@lse.ac.uk>;  <jpvasq@mit.edu>. 
 
 ***
 
