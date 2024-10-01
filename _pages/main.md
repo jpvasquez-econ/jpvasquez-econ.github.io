@@ -32,7 +32,7 @@ My main fields of research are International Trade, Labo(u)r Economics, and Deve
 
 ---
 
-- [<u>Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China Shock</u>](/files/NK_trade.pdf) with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/). June 2024. Second revision requested at the ***Journal of Political Economy***. 
+- [<u>Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China Shock</u>](/files/NK_trade.pdf) with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/). June 2024. Revision requested at the ***Journal of Political Economy***. 
   * Link to [VoxEU column](https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock)
 - [<u>Labor Market Effects of Global Supply Chain Disruptions</u>](/files/SupplyChainDisruptions.pdf) with [Mauricio Ulate](https://www.mauricioulate.com/), and [Roman D. Zarate](https://www.romandavidzarate.com/). August 2023. Reject and Resubmit at the ***Journal of Monetary Economics***. 
 - [<u>Responsible Sourcing? Theory and Evidence from Costa Rica</u>](/files/Responsible_Sourcing_CR.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Ben Faber](https://eml.berkeley.edu/~faberb/), [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/), and [Isabela Manelici](https://www.isabelamanelici.com/). November 2022. Revision requested at the ***American Economic Review***. 
