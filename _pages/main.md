@@ -12,9 +12,7 @@ redirect_from:
 
 My main fields of research are International Trade, Labo(u)r Economics, and Development Economics.
 
-[**Curriculum Vitae**](/files/CV_Jose_Vasquez.pdf).
-
-**Emails:** <j.p.vasquez@lse.ac.uk>.
+[**Curriculum Vitae**](/files/CV_Jose_Vasquez.pdf). **Email:** <j.p.vasquez@lse.ac.uk>.
 
 ***
 
