@@ -16,7 +16,7 @@ My main fields of research are International Trade, Labo(u)r Economics, and Deve
 
 ***
 
-# Publications
+# Peer-reviewed publications
 
 ---
 
@@ -24,6 +24,13 @@ My main fields of research are International Trade, Labo(u)r Economics, and Deve
   - Links to [VoxDev summary](https://voxdev.org/topic/firms-trade/boosting-firm-productivity-through-joining-multinational-supply-chains), [IGC summary](https://www.theigc.org/blog/new-research-findings-on-firms-in-five-graphs/)**,** ["The Visible Hand" Podcast](https://www.thevisiblehand.uk/episodes/episode-13), [Faculti interview](https://faculti.net/the-effects-of-joining-multinational-supply-chains)
 - [<u>Labor Market Effects of Global Supply Chain Disruptions</u>](https://www.sciencedirect.com/science/article/abs/pii/S0304393224001776) with [Mauricio Ulate](https://www.mauricioulate.com/) and [Roman D. Zarate](https://www.romandavidzarate.com/).  ***Journal of Monetary Economics***, 2025. Vol 149. [<u>Working paper version</u>](/files/SupplyChainDisruptions.pdf).
 
+# Other publications
+
+---
+
+
+
+- [<u>VoxDevLit on “Foreign Direct Investment and Development”</u>](https://voxdev.org/voxdevlit/foreign-direct-investment) (w/ Alviarez, Boudreau, Dardati, Fan, Farrokhi, Garcia-Lembergman, Garetto, Gu, Hale, Hemous, Limodio, Manelici, Martin, Morales, Pandalai-Nayar, Pavcnik, Pellegrina, Ramondo, and Vezina). VoxDevLit, 13(1), February 2025
 
 # Working papers
 
@@ -38,14 +45,6 @@ My main fields of research are International Trade, Labo(u)r Economics, and Deve
 
 
 * [<u>The Effects of Multinationals on Workers: Evidence from Costa Rican Microdata</u>](/files/Effects_MNC_Workers.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/).
-
-# Other publications
-
----
-
-
-
-- [VoxDevLit on “Foreign Direct Investment and Development”](https://voxdev.org/voxdevlit/foreign-direct-investment) (w/ Alviarez, Boudreau, Dardati, Fan, Farrokhi, Garcia-Lembergman, Garetto, Gu, Hale, Hemous, Limodio, Manelici, Martin, Morales, Pandalai-Nayar, Pavcnik, Pellegrina, Ramondo, and Vezina). VoxDevLit, 13(1), February 2025
 
 # Selected work in progress
 
