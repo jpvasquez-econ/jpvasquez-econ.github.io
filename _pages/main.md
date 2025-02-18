@@ -39,10 +39,18 @@ My main fields of research are International Trade, Labo(u)r Economics, and Deve
 
 * [<u>The Effects of Multinationals on Workers: Evidence from Costa Rican Microdata</u>](/files/Effects_MNC_Workers.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/).
 
+# Other publications
+
+---
+
+
+
+- [VoxDevLit on “Foreign Direct Investment and Development”](https://voxdev.org/voxdevlit/foreign-direct-investment) (w/ Alviarez, Boudreau, Dardati, Fan, Farrokhi, Garcia-Lembergman, Garetto, Gu, Hale, Hemous, Limodio, Manelici, Martin, Morales, Pandalai-Nayar, Pavcnik, Pellegrina, Ramondo, and Vezina). VoxDevLit, 13(1), February 2025
+
 # Selected work in progress
 
 ---
 
-- <u>(Mis)matching to Good Suppliers: Evidence from Transactions Microdata</u> with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Paolo Zacchia](https://www.paolozacchia.com/). 
+- <u>(Mis)matching to Good Suppliers: Evidence from Transactions Microdata</u> with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), Arsenii Shcherbov, and [Paolo Zacchia](https://www.paolozacchia.com/). 
 
 - <u>The Gains from Foreign Multinationals in an Economy with Distortions</u> with [Isabela Manelici](https://www.isabelamanelici.com/), [Mauricio Ulate](https://www.mauricioulate.com/), and [Roman D. Zarate](https://www.romandavidzarate.com/).
