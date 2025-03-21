@@ -23,12 +23,12 @@ My main fields of research are International Trade, Labo(u)r Economics, and Deve
 - [<u>The Effects of Joining Multinational Supply Chains: New Evidence from Firm-to-Firm Linkages</u>](/files/Effects_of_Joining_MNC_Supply_Chains_QJE.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/). ***Quarterly Journal of Economics***, 2022. Vol 137(3), pp. 1495–1552. [<u>Online Appendix</u>](/files/amv1-2022-OnlineAppendix.pdf).
   - Links to [VoxDev summary](https://voxdev.org/topic/firms-trade/boosting-firm-productivity-through-joining-multinational-supply-chains), [IGC summary](https://www.theigc.org/blog/new-research-findings-on-firms-in-five-graphs/)**,** ["The Visible Hand" Podcast](https://www.thevisiblehand.uk/episodes/episode-13), [Faculti interview](https://faculti.net/the-effects-of-joining-multinational-supply-chains)
 - [<u>Labor Market Effects of Global Supply Chain Disruptions</u>](https://www.sciencedirect.com/science/article/abs/pii/S0304393224001776) with [Mauricio Ulate](https://www.mauricioulate.com/) and [Roman D. Zarate](https://www.romandavidzarate.com/).  ***Journal of Monetary Economics***, 2025. Vol 149. [<u>Working paper version</u>](/files/SupplyChainDisruptions.pdf).
+- [<u>Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China Shock</u>](/files/NK_trade.pdf) with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/).  ***Journal of Political Economy*** (accepted for publication). 
+  * Link to [VoxEU column](https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock)
 
 # Other publications
 
 ---
-
-
 
 - [<u>VoxDevLit on “Foreign Direct Investment and Development”</u>](https://voxdev.org/voxdevlit/foreign-direct-investment) (w/ Alviarez, Boudreau, Dardati, Fan, Farrokhi, Garcia-Lembergman, Garetto, Gu, Hale, Hemous, Limodio, Manelici, Martin, Morales, Pandalai-Nayar, Pavcnik, Pellegrina, Ramondo, and Vezina). VoxDevLit, 13(1), February 2025
 
@@ -36,10 +36,6 @@ My main fields of research are International Trade, Labo(u)r Economics, and Deve
 
 ---
 
-
-
-- [<u>Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China Shock</u>](/files/NK_trade.pdf) with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/). Revision requested at the ***Journal of Political Economy***. 
-  * Link to [VoxEU column](https://voxeu.org/article/understanding-unemployment-and-welfare-effects-china-shock)
 - [<u>Responsible Sourcing? Evidence from Costa Rica</u>](/files/Responsible_Sourcing_CR.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Ben Faber](https://eml.berkeley.edu/~faberb/), [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/), and [Isabela Manelici](https://www.isabelamanelici.com/). Revision requested at the ***American Economic Review***. 
   - Links to [VoxDev summary](https://voxdev.org/topic/firms-trade/responsible-sourcing-theory-and-evidence-costa-rica), [VoxEU column](https://cepr.org/voxeu/columns/responsible-sourcing-theory-and-evidence-costa-rica), [Trade Talks episode](https://open.spotify.com/episode/0UGnly236k5gI5K6zZARRZ?si=TEA8TIK5Rkq-QiN4ATz4uw), [WTO World Trade Report 2024](/files/wtr24_opinion.pdf)
 
