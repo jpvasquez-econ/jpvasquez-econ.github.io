@@ -36,7 +36,7 @@ My main fields of research are International Trade, Labo(u)r Economics, and Deve
 
 ---
 
-- [<u>Responsible Sourcing? Evidence from Costa Rica</u>](/files/Responsible_Sourcing_CR.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Ben Faber](https://eml.berkeley.edu/~faberb/), [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/), and [Isabela Manelici](https://www.isabelamanelici.com/). Revision requested at the ***American Economic Review***. 
+- [<u>Responsible Sourcing? Evidence from Costa Rica</u>](/files/Responsible_Sourcing_CR.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Ben Faber](https://eml.berkeley.edu/~faberb/), [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/), and [Isabela Manelici](https://www.isabelamanelici.com/). Resubmitted to the ***American Economic Review***. 
   - Links to [VoxDev summary](https://voxdev.org/topic/firms-trade/responsible-sourcing-theory-and-evidence-costa-rica), [VoxEU column](https://cepr.org/voxeu/columns/responsible-sourcing-theory-and-evidence-costa-rica), [Trade Talks episode](https://open.spotify.com/episode/0UGnly236k5gI5K6zZARRZ?si=TEA8TIK5Rkq-QiN4ATz4uw), [WTO World Trade Report 2024](/files/wtr24_opinion.pdf)
 
 
