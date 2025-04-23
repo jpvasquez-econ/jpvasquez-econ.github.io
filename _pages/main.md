@@ -36,11 +36,13 @@ My main fields of research are International Trade, Labo(u)r Economics, and Deve
 
 ---
 
+- [<u>The 2025 Trade War: Dynamic Impacts Across U.S. States and the Global Economy</u>](/files/Tariffs.pdf) with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/).
+
 - [<u>Responsible Sourcing? Evidence from Costa Rica</u>](/files/Responsible_Sourcing_CR.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Ben Faber](https://eml.berkeley.edu/~faberb/), [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/), and [Isabela Manelici](https://www.isabelamanelici.com/). Resubmitted to the ***American Economic Review***. 
   - Links to [VoxDev summary](https://voxdev.org/topic/firms-trade/responsible-sourcing-theory-and-evidence-costa-rica), [VoxEU column](https://cepr.org/voxeu/columns/responsible-sourcing-theory-and-evidence-costa-rica), [Trade Talks episode](https://open.spotify.com/episode/0UGnly236k5gI5K6zZARRZ?si=TEA8TIK5Rkq-QiN4ATz4uw), [WTO World Trade Report 2024](/files/wtr24_opinion.pdf)
 
 
-* [<u>The Effects of Multinationals on Workers: Evidence from Costa Rican Microdata</u>](/files/Effects_MNC_Workers.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/).
+- [<u>The Effects of Multinationals on Workers: Evidence from Costa Rican Microdata</u>](/files/Effects_MNC_Workers.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena) and [Isabela Manelici](https://www.isabelamanelici.com/).
 
 # Selected work in progress
 
