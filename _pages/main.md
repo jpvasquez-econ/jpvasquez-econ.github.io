@@ -14,6 +14,8 @@ My main fields of research are International Trade, Labo(u)r Economics, and Deve
 
 [**Curriculum Vitae**](/files/CV_Jose_Vasquez.pdf). **Email:** <j.p.vasquez@lse.ac.uk>.
 
+---
+
 # Working papers
 
 ---
