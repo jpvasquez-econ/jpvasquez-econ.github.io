@@ -20,7 +20,7 @@ My main fields of research are International Trade, Labo(u)r Economics, and Deve
 
 ---
 
-- [<u>The 2025 Trade War: Dynamic Impacts Across U.S. States and the Global Economy</u>](/files/Tariffs.pdf) with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/) and [Mauricio Ulate](https://www.mauricioulate.com/).
+- [<u>The 2025 Trade War: Dynamic Impacts Across U.S. States and the Global Economy</u>](/files/Tariffs.pdf) with [Andrés Rodríguez-Clare](https://eml.berkeley.edu/~arodeml/), [Mauricio Ulate](https://www.mauricioulate.com/), and [Roman D. Zarate](https://www.romandavidzarate.com/).
   - Link to [VoxEU column](https://cepr.org/voxeu/columns/2025-trade-war-dynamic-impacts-across-us-states-and-global-economy). 
 
 - [<u>Responsible Sourcing? Evidence from Costa Rica</u>](/files/Responsible_Sourcing_CR.pdf) with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), [Ben Faber](https://eml.berkeley.edu/~faberb/), [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/), and [Isabela Manelici](https://www.isabelamanelici.com/). Resubmitted to the ***American Economic Review***. 
