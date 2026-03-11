@@ -49,3 +49,4 @@ My main fields of research are International Trade, Labo(u)r Economics, and Deve
 
 - <u>Good Suppliers and Bad Suppliers</u> with [Alonso Alfaro-Ureña](https://sites.google.com/view/alfarourena), Arsenii Shcherbov, and [Paolo Zacchia](https://www.paolozacchia.com/). 
 - <u>The Gains from Foreign Multinationals in an Economy with Distortions</u> with [Isabela Manelici](https://www.isabelamanelici.com/), [Mauricio Ulate](https://www.mauricioulate.com/), and [Roman D. Zarate](https://www.romandavidzarate.com/).
+- <u>Managing Innovation in Firms</u> with [Ingrid Haegele](https://www.ingridhaegele.com), [Isabela Manelici](https://www.isabelamanelici.com/), and [Francis Wong](https://sites.google.com/view/francisawong/).
